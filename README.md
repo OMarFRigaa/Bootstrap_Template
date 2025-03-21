@@ -13,4 +13,4 @@ A simple and responsive **Bootstrap template** for web development projects.
 - CSS  
 - Bootstrap 5  
 
-## 📂 Project Structure
+
